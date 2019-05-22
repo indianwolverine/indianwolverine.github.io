@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/indianwolverine
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://indianwolverine.me
+  * I am indianwolverine (https://keybase.io/indianwolverine) on keybase.
+  * I have a public key with fingerprint 309B 0D45 3A4C 783F 3C4A  A43D E731 E5C5 538C 420E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120950e42e0b265db8a4c2c3178cc277f45ca333093f21dca49a7e398dfb5b733870a",
+      "fingerprint": "309b0d453a4c783f3c4aa43de731e5c5538c420e",
+      "host": "keybase.io",
+      "key_id": "e731e5c5538c420e",
+      "kid": "01015bcad8a6672286d5070c95e63bfe7cc8d59295b0a3b49c3576a40a866af210470a",
+      "uid": "4d9c22128acb5108976ba0890d245019",
+      "username": "indianwolverine"
+    },
+    "service": {
+      "hostname": "indianwolverine.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1558498293,
+  "expire_in": 157680000,
+  "prev": "eebef072c0176c8f9a763b3d974a2752cb1e4d45dd591284ee86fae74f8e4321",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUltoFUcYPieaGoNHtIHiBaldWxQa7OxcdmaPCcXYiIQGH+ItGnucmZ3NWUx2
+T/asJyfEFhJRsGiwUR+0UAoVvCM2UGoVjUq02CoiokTw8hA1Xp5axEtUOpuaN+dl
+mPm/75v/+/7ZkRqXKEs+NO8PNGyrmZz865FINA39XdppiMDpMNKdxno1uqkWR+Wj
+zHrPMdIGMCGwCVAYKiCgRRzBOJZQIpMyKSGlLiaSI4SAjVxoOpJjm1OFbOa4ggiK
+EKOAG5WG6/nNKsyFnh9pWQ0XwMEEaTHKkIsk5hwjR1FkKiIJQUxiCJQmZoN8zNDN
+CZ5X871A3+lDZrS99+DH+gYmEZI7jFsWhZBZDgEUSJsoCwlXUSmZQ2xoEwE4EtiW
+iFCLY8CZZXHtBOD/+94wKocdW0JoQsalICZgNrUE1xtwICbAtGNgXoU+b1Ua7fmO
+x/32oKWgtF9lfFtp6GLBkyrONzb0fuD81thALgyiQAYtup6Nolw+HfOjjlxMaFci
+804qI2K236wZmp33At9ImxopIy/WNglh2GbQRpWGKua8UGW8GKFdMqCXfscNVSHO
+UAnlAgolMKklmavnpyNCjk0xh5RAKUyF9awcnZdOACvFLJcril2mMIKmEbtr8wMj
+DbVqxJu1Zt5r9nm0IdTey7cm0fhEsiwx66NPxoMfU7Xpr4tfVtXtqx77iaUl8TdM
+lE+cMnZDUxNep659/KBnRnIofFTc9Wrw5A61cNnZqXVdV+t2saXPbva/vTNO1f85
+2H/m+rnFX2ysz6qRu9vnle57cvvFosa+n/+9VHxcm2hrPd84O72ksLb7eE3tie9X
+hxUreodfRv/sXVV+atLgp/c+2D1h2p7Ch1XezpW8pnp100pSad1a2nDm/nKrbeOr
+y+tmdXeM9JS19Dy71PErmDe39+CNslRV27F720+sK69fvuXOliPD3xxoP3x0oKmv
+Ivtm2tkr3d2HNl34Y+jt0/0Xf5pRkfmqYfPFmZ//snhSfeF0Y8rKTpkzcPLK7yVd
+/cuef3dqQd+FCt7Zu6KkiyVf/jAyvOa3Nbc+m77qzeXqvL3XLG77Dw==
+=W3NZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/indianwolverine
+
+==================================================================
