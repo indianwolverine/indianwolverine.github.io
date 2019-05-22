@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aditya Srivastava</title>
+    <link>https://indianwolverine.github.io/projects/</link>
+    <description>Recent content in Projects on Aditya Srivastava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://indianwolverine.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://indianwolverine.github.io/projects/projects/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/projects/projects/</guid>
+      <description>Projects I am working on.</description>
+    </item>
+    
+    <item>
+      <title>SeqFS: RNA Fold Change</title>
+      <link>https://indianwolverine.github.io/projects/seqfs/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/projects/seqfs/</guid>
+      <description>SeqFS is a project intended to simplify processing and analysis of RNA [and hopyfully later DNA] sequences for biologists generating this kind of data in the lab.
+The aim is to feed in raw fastq/fasta files to the program, and get files as output viewable on any genome browser, allowing researchers to compare fold change results for themselves.
+Ideally this program will be run on a dedicated server with hefty compute resources, mainly for the sequence alignment step.</description>
+    </item>
+    
+    <item>
+      <title>Next Song: Party playlist crowdsourcing in realtime</title>
+      <link>https://indianwolverine.github.io/projects/nextsong/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/projects/nextsong/</guid>
+      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&amp;rsquo;t the people control (the atmosphere of) the party?
+ &amp;lt;code&amp;gt;
+ </description>
+    </item>
+    
+  </channel>
+</rss>
