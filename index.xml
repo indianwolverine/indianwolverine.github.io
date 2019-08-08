@@ -6,10 +6,21 @@
     <description>Recent content on Aditya Srivastava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://indianwolverine.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aerc: the world&#39;s best email client</title>
+      <link>https://indianwolverine.github.io/projects/aerc/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/projects/aerc/</guid>
+      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&amp;rsquo;s still in the early stages of development. If you&amp;rsquo;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
+ &amp;lt;code&amp;gt;
+ </description>
+    </item>
     
     <item>
       <title>About</title>
