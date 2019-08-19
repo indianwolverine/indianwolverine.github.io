@@ -34,7 +34,7 @@ Production [Software + Systems] Engineer Intern at Facebook</description>
     </item>
     
     <item>
-      <title>PGP Key</title>
+      <title>PGP</title>
       <link>https://indianwolverine.github.io/pgpkey/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
@@ -49,6 +49,18 @@ Production [Software + Systems] Engineer Intern at Facebook</description>
       
       <guid>https://indianwolverine.github.io/projects/projects/</guid>
       <description>Projects I am working on.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>https://indianwolverine.github.io/readings/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/readings/</guid>
+      <description>The Best
+ The New Yorker  Books (Currently Reading)
+ The Language Instinct - Steven Pinker The Architecture of Open Source Applications - Various Linux Device Drivers - Corbet, Rubini, and Kroah-Hartman Computer Systems: A Programmer&amp;rsquo;s Perspective - Bryant and O&amp;rsquo;Hallaron  Blogs
+ Julia Evans Dan Luu The Morning Paper Drew Devault Mango Zone Purple Idea Joel on Software Ramblings from Jessie Hugo Landau Bits of DNA  </description>
     </item>
     
     <item>
