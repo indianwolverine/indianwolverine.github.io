@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Aditya Srivastava</title>
@@ -6,10 +6,20 @@
     <description>Recent content in projects on Aditya Srivastava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://indianwolverine.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kmc: kubernetes multi-cluster</title>
+      <link>https://indianwolverine.github.io/projects/kmc/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/projects/kmc/</guid>
+      <description>kmc is a tool that makes it easy to provision a kubernetes cluster composed of nodes in arbitrary regions. kmc is especially useful for simulating an edge-computing environment, since nodes can be provisioned globally and are not limited to any single region, as kubernetes is usually deployed.
+As of now, kmc supports provisioning nodes through AWS EC2 instances and as such requires the user have an AWS account. The goal however is to have kmc be able to provision nodes across cloud computing providers (GCP, Azure, DigitalOcean etc.</description>
+    </item>
     
     <item>
       <title>aerc: the world&#39;s best email client</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/aerc/</guid>
-      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&amp;rsquo;s still in the early stages of development. If you&amp;rsquo;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
+      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&#39;s still in the early stages of development. If you&#39;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
  &amp;lt;code&amp;gt;
  </description>
     </item>
@@ -48,7 +58,7 @@ Ideally this program will be run on a dedicated server with hefty compute resour
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/nextsong/</guid>
-      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&amp;rsquo;t the people control (the atmosphere of) the party?
+      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&#39;t the people control (the atmosphere of) the party?
  &amp;lt;code&amp;gt;
  </description>
     </item>
