@@ -27,7 +27,7 @@ As of now, kmc supports provisioning nodes through AWS EC2 instances and as such
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/aerc/</guid>
-      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&#39;s still in the early stages of development. If you&#39;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
+      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&amp;rsquo;s still in the early stages of development. If you&amp;rsquo;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
  &amp;lt;code&amp;gt;
  </description>
     </item>
@@ -58,7 +58,7 @@ Ideally this program will be run on a dedicated server with hefty compute resour
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/nextsong/</guid>
-      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&#39;t the people control (the atmosphere of) the party?
+      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&amp;rsquo;t the people control (the atmosphere of) the party?
  &amp;lt;code&amp;gt;
  </description>
     </item>

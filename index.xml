@@ -6,7 +6,7 @@
     <description>Recent content on Aditya Srivastava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://indianwolverine.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,7 @@ As of now, kmc supports provisioning nodes through AWS EC2 instances and as such
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/aerc/</guid>
-      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&#39;s still in the early stages of development. If you&#39;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
+      <description>aerc is a terminal based mail client maintained by Drew Devault. I contribute to the project, doing basically whatever needs to be done, since it&amp;rsquo;s still in the early stages of development. If you&amp;rsquo;re interested in contributing, join the IRC channel #aerc on irc.freenode.net for end-user support, and #aerc-dev for development. The team is very friendly and patches get reviewed pretty quickly!
  &amp;lt;code&amp;gt;
  </description>
     </item>
@@ -49,7 +49,8 @@ As of now, kmc supports provisioning nodes through AWS EC2 instances and as such
       <guid>https://indianwolverine.github.io/about/</guid>
       <description>Computer Science and Molecular and Cell Biology student at
 The University of California, Berkeley [2017 - 2021]
-Production [Software + Systems] Engineer Intern at Facebook (Summer 2019 and Summer 2020)</description>
+Production [Software + Systems] Engineer Intern at Facebook (Summer 2019 and Summer 2020)
+Incoming Software Engineering Intern at Nefeli Networks (Networking company building NFV) (Fall 2020)</description>
     </item>
     
     <item>
@@ -78,9 +79,8 @@ Production [Software + Systems] Engineer Intern at Facebook (Summer 2019 and Sum
       <guid>https://indianwolverine.github.io/readings/</guid>
       <description>The Best
  The New Yorker  Classes (Currently Reviewing)
- [Graduate]
- CS 268 Computer Networks ~ Sylvia Ratnasamy CS 262a Advanced Topics in Computer Systems ~ John Kubiatowicz CS 286 Implementation of Database Systems ~ Joe Hellerstein CS 261 Security in Computer Systems ~ Raluca Ada Popa  Books (Currently Reading)
- The Language Instinct ~ Steven Pinker The Linux Kernel ~ David A. Rusling The Linux Programming Interface ~ Michael Kerrisk The Architecture of Open Source Applications ~ Various Linux Device Drivers ~ Corbet, Rubini, and Kroah-Hartman Computer Systems: A Programmer&#39;s Perspective ~ Bryant and O&#39;Hallaron  Blogs</description>
+ [Graduate Level]
+ CS 268 Computer Networks ~ Sylvia Ratnasamy CS 262A Advanced Topics in Computer Systems ~ John Kubiatowicz CS 262B Advanced Topics in Computer Systems ~ David Culler CS 286 Implementation of Database Systems ~ Joe Hellerstein CS 261 Security in Computer Systems ~ Raluca Ada Popa CS 261N Internet/Network Security  ~ Vern Paxson  Books (Currently Reading)</description>
     </item>
     
     <item>
@@ -109,7 +109,7 @@ Ideally this program will be run on a dedicated server with hefty compute resour
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/projects/nextsong/</guid>
-      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&#39;t the people control (the atmosphere of) the party?
+      <description>Next Song is a project to develop an interactive, realtime playlist for any social occasion or public place, where people get to suggest songs and vote on the next one they want to hear. Because, after all, shouldn&amp;rsquo;t the people control (the atmosphere of) the party?
  &amp;lt;code&amp;gt;
  </description>
     </item>
