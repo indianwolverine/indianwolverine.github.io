@@ -6,10 +6,37 @@
     <description>Recent content on Aditya Srivastava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://indianwolverine.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlackHole</title>
+      <link>https://indianwolverine.github.io/blackhole/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/blackhole/</guid>
+      <description>More or less accurate index of what I&amp;rsquo;m interested in or want to keep track of at the moment.
+ Readings Magazines  The New Yorker No others are consistently good  Books  State of Wonder, Bel Canto ~ Ann Patchett Being Mortal ~ Atul Gawande Nine Stories, Franny and Zooey ~ J. D. Salinger Blindness ~ Jose Saramago  Blogs  Julia Evans rachelbythebay Marek Majkowski Dan Luu Ming Thein Skull Security Russ Cox Kamal Marhubi Signs of Triviality The Morning Paper Drew Devault Kalzumeus Mango Zone Purple Idea Joel on Software Ramblings from Jessie Bits of DNA Cloudflare Stereophile Cockroach Labs   Computer Science Classes  [Graduate Level]</description>
+    </item>
     
-	<atom:link href="https://indianwolverine.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>https://indianwolverine.github.io/papers/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/papers/</guid>
+      <description>Queue  The Chubby lock service for loosely-coupled distributed systems ~ Mike Burrows MyRocks: LSM-Tree Database Storage Engine Serving Facebook&amp;rsquo;s Social Graph ~ Yoshinori Matsunobu  Read (no writeup)  Architecture of a Database System ~ Joseph M. Hellerstein, Michael Stonebraker, James Hamilton The Design and Implementation of a Log-Structured File System ~ Rosenblum and Ousterhout Stride Scheduling: Deterministic Proportional-Share Resource Management ~ Waldspurger and Weihl Cloudburst: Stateful Functions-as-a-Service ~ Sreekanti et al.</description>
+    </item>
     
+    <item>
+      <title>Berkeley RISELab</title>
+      <link>https://indianwolverine.github.io/research/riselab/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/research/riselab/</guid>
+      <description>Researching ways to improve read and write throughput in the Raft consensus protocol. Wrote and evaluated an implementation of Raft and a variant of Raft with support for Quorum Reads.
+Draft of Paper
+Protocol Visualizations
+Code</description>
+    </item>
     
     <item>
       <title>Berkeley Netsys Lab</title>
@@ -47,10 +74,11 @@ As of now, kmc supports provisioning nodes through AWS EC2 instances and as such
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/about/</guid>
-      <description>Computer Science and Molecular and Cell Biology student at
-The University of California, Berkeley [2017 - 2021]
-Production [Software + Systems] Engineer Intern at Facebook (Summer 2019 and Summer 2020)
-Incoming Software Engineering Intern at Nefeli Networks (Networking company building NFV) (Fall 2020)</description>
+      <description>  Incoming Production [Software + Systems] Engineer at Facebook (Fall 2021)
+  Computer Science and Molecular and Cell Biology student at
+the University of California, Berkeley (2017 - 2021)
+  Production [Software + Systems] Engineer Intern at Facebook (Summer 2019 and Summer 2020)
+  </description>
     </item>
     
     <item>
@@ -59,28 +87,7 @@ Incoming Software Engineering Intern at Nefeli Networks (Networking company buil
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://indianwolverine.github.io/pgpkey/</guid>
-      <description>-----BEGIN PGP PUBLIC KEY BLOCK----- mQENBFzkxcoBCADhpzFiM4bFwyUhpN/OqItXMgRYBTFUtjnRw8zASarRV5YFqdSo VrldJlgmWCLV/CJsIlvkrxdELEYR8CCrz3KTdVBKZjEJfRw4Lkzy8tshPAGLrT2b HYr188357GBvsQ3zT/4VVFVbTfnB1JUXqwDiopgp7wSrXNg2bBQ6D29JrwvbMrPW pWmGmN7GZ6RtQ9xTDS6sUULJZuiZPTIwm8FgsQwiDsn3oUncVcyXABKkpixP/iOA HILu2F2I3WMXZFMTj63BbPCwck08AO8O5kXC3aOp6kqVo4RYIBUS44diz4lrrUWy vtKzIgdQLAsc+EF1iLsiVwzOemdygmOQjbTnABEBAAG0MkFkaXR5YSBTcml2YXN0 YXZhIDxhZGl0eWEuc3JpdmFzdGF2YUBiZXJrZWxleS5lZHU+iQFUBBMBCAA+FiEE MJsNRTpMeD88SqQ95zHlxVOMQg4FAlzkxcoCGwMFCQHhM4AFCwkIBwIGFQoJCAsC BBYCAwECHgECF4AACgkQ5zHlxVOMQg7uhwf/TalHz/Bw2iS2ZBtK8S0Zm6sMusFG jWt2JW7CyPVLod6+jlealRvRcMbr+iT0SGChW0iHyP78dgMAltLrx2Ajteko/nnV CW/SzVHzCaDFnJXbliKGfbIsfzP+jymY2pJzx+Z70c5XjidyPW6dIHsmn4xhlGxg UO/LB3N/8Tu/uJi4k4d/RDcE8k1lrw3vpdIHMh2/+hHJ0uBIAaQ7W4hBrskJAxpr jpWaD0NsZlG2sIYJ+tVX8LCFyDZHmAI8vHJDu92cdbcRyXT/r+YYWQXSAurRnnjI rpyhgiIvuUDeU6q9bBSy+3kI34enJldUAAvvDWBBe79GIewjGumXYjWJ4LkBDQRc 5MXKAQgAv/xKtECz6lCvMACmoMRUHhQ1AOBdkj/98Q1GawapqeqLn4VzuUeKIP8O QdteogAfJ1fViNto9vpAUVWRReQX3IqS1mQnufUMYzxOY8nHD1iCaNEpoFEnqe5f GS7nK2DU+/7NyloR6fqQSxTOtJ4KaGWPau38xil+KDyEJOi0dA7EtAxMl8z+XCuh jyeEqIkG9m7Xmqia8/1eqSiKoKh5yw4ZSAZGOluJi6j4/mtFHeAWU3ft7yOkSnU8 twByofrN9xvRwhYhlY5J7Upd11g/+rWYQhep9ZklwPig9IryFYDi6wS8f0pZC+kT iNtUs0B2V1M6feZrMuxQNJ3x8mJZPQARAQABiQE8BBgBCAAmFiEEMJsNRTpMeD88 SqQ95zHlxVOMQg4FAlzkxcoCGwwFCQHhM4AACgkQ5zHlxVOMQg6SQAf7B2p7VOZy aLU4xPNeyzo9WRgAxwb52sfc/7oRBivta8f7y7NBMvVvGK2uLZ5YuEU88r2i1Wb/ uZguDw0FmaASAbpWWxMMXvnRjlRZVDZChZ8cZ3CiOp8pIjzGAX9cSLL7QQBXRVUo kFTsAq6bdmFfJzmZh/XZMKWaQodkNLfJ7hA16OkfSoao+FtXlssw/htGGJWU9X2Q A7tt1+s/VCDRxvXhJeYKZ3Y6pJh3w3Jb98Oh3siv6myHN+DpJgo2lK6rOK8M934w w4FMEmVFnC/XFmMWeD5UF6mWgutCScSSGweZk4Bqs7VXyf0PMdtA3Syetk3+PMz3 8rEoufnESOpRNQ== =EL6b -----END PGP PUBLIC KEY BLOCK----- </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://indianwolverine.github.io/projects/projects/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://indianwolverine.github.io/projects/projects/</guid>
-      <description>Projects I am working on.</description>
-    </item>
-    
-    <item>
-      <title>Readings</title>
-      <link>https://indianwolverine.github.io/readings/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://indianwolverine.github.io/readings/</guid>
-      <description>The Best
- The New Yorker  Classes (Currently Reviewing)
- [Graduate Level]
- CS 268 Computer Networks ~ Sylvia Ratnasamy CS 262A Advanced Topics in Computer Systems ~ John Kubiatowicz CS 262B Advanced Topics in Computer Systems ~ David Culler CS 286 Implementation of Database Systems ~ Joe Hellerstein CS 261 Security in Computer Systems ~ Raluca Ada Popa CS 261N Internet/Network Security  ~ Vern Paxson  Books (Currently Reading)</description>
+      <description>PGP Key</description>
     </item>
     
     <item>

@@ -6,10 +6,18 @@
     <description>Recent content in Research on Aditya Srivastava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://indianwolverine.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://indianwolverine.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berkeley RISELab</title>
+      <link>https://indianwolverine.github.io/research/riselab/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://indianwolverine.github.io/research/riselab/</guid>
+      <description>Researching ways to improve read and write throughput in the Raft consensus protocol. Wrote and evaluated an implementation of Raft and a variant of Raft with support for Quorum Reads.
+Draft of Paper
+Protocol Visualizations
+Code</description>
+    </item>
     
     <item>
       <title>Berkeley Netsys Lab</title>
